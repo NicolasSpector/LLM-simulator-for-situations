@@ -1,12 +1,12 @@
 # LLM-Simulator-for-Situations
-Master's thesis project of students from the Master's in Big Data, Data Science &amp; Business Analytics at UCM.
+Master's thesis project of students from the Master's in Big Data, Data Science &amp; Business Analytics at Universidad Complutense de Madrid.
 
 ## Team members
+- Nicolás Esteban Spector.
 - Alejandro Blanco Rey.
 - Amy Ramírez Jurado.
 - Bruno Dosaula Ces.
 - Germán David Cortés Hernández.
-- Nicolás Esteban Spector.
 
 ## Description:
 
